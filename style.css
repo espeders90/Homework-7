@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    
+}
+#train-name-input {
+    display: block;
+}
+#destination-input {
+    display: block;
+}
+#first-train-input {
+    display: block;
+}
+#frequency-input {
+    display: block;
+}
+#add-employee-btn {
+    margin-top: 10px;
+}
